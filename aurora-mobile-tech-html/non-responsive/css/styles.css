@@ -30,6 +30,10 @@ p {
     justify-content: space-around;
 }
 
+.flex-row {
+    flex-direction: row;
+}
+
 .no-underline {
     text-decoration: none;
 }
