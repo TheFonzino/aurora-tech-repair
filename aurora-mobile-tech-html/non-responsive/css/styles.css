@@ -36,19 +36,18 @@ p {
 
 /* Header */
 
-header {
+header.flex-container {
     font-size: 2rem;
-    background-image: url(../images/glacier-galaxy.jpg);
-    background-size: cover;
-    background-position: left bottom 47%;
+    background-color:rgb(122, 112, 182);
+    padding: 1rem;
 }
 
 header a,
 header a:visited,
 header a:link {
-    color: lightsteelblue;
-
+    color: #0a395b;
 }
+
 header p {
     font-size: 2.4rem;
 }
@@ -59,9 +58,40 @@ header img {
     padding: 0.5rem;
 }
 
+header a.no-underline {
+    justify-self: start;
+}
+
+header div.links {
+    width: 30vw;
+}
+
 div.flex-container p {
     color: #0a395b;
+    font-family: monospace;
+    font-weight: bold;
+    letter-spacing: 0.01rem;
+    line-height: 2.5rem;
 }
 
 /* Footer */
 
+footer {
+    background-image: url(../images/glacier-galaxy.jpg);
+    background-size: cover;
+    background-position: left bottom 47%;
+}
+
+footer.flex-container {
+    flex-direction: column;
+}
+
+footer p {
+    color: #0a395b;
+}
+
+footer a,
+footer a:visited,
+footer a:link {
+    color: crimson;
+}
