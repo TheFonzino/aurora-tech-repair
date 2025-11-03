@@ -1,0 +1,29 @@
+main {
+    background-color: lavenderblush;
+}
+
+.hero-image {
+    background-image: url(../images/Hero_background.webp);
+    background-size: cover;
+    background-position: center;
+    height: 75vh;
+    width: 75vw;
+    margin: 10rem;
+}
+
+.textbox {
+    height: 25vh;
+    width: 25vw;
+    background-color: rgba(64, 121, 209, 0.9);
+    border-radius: 3rem;
+}
+
+.textbox h2 {
+    text-align: center;
+}
+
+div.textbox p {
+    background-color: #09395c;
+    padding: 1rem;
+    border-radius: 1rem;
+}

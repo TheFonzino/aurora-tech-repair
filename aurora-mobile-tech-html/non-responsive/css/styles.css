@@ -1,3 +1,13 @@
+/* Coloring Guide
+
+Purple: #5a57dd
+Less-saturated Purple: #7e64eb
+Dark Navy Blue: #09395c
+Navy Blue: #205787
+Light Navy Blue: #699ceb
+
+*/
+
 html {
     box-sizing: border-box;
     font-size: 62.5%;
@@ -22,6 +32,10 @@ p {
     font-size: 2rem;
 }
 
+ul {
+   list-style-type: none; 
+}
+
 /* Utility Classes */
 
 .flex-container {
@@ -34,6 +48,10 @@ p {
     flex-direction: row;
 }
 
+.flex-column {
+    flex-direction: column;
+}
+
 .no-underline {
     text-decoration: none;
 }
@@ -42,7 +60,7 @@ p {
 
 header.flex-container {
     font-size: 2rem;
-    background-color:rgb(122, 112, 182);
+    background-color: antiquewhite;
     padding: 1rem;
 }
 
@@ -66,12 +84,12 @@ header a.no-underline {
     justify-self: start;
 }
 
-header div.links {
+header nav {
     width: 30vw;
 }
 
 div.flex-container p {
-    color: #0a395b;
+    color: #205787;
     font-family: monospace;
     font-weight: bold;
     letter-spacing: 0.01rem;
@@ -98,4 +116,12 @@ footer a,
 footer a:visited,
 footer a:link {
     color: crimson;
+}
+
+footer ul li {
+    margin-bottom: 1rem;
+}
+
+footer ul li:first-child {
+    font-weight: bold;
 }

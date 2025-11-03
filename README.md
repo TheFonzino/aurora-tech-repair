@@ -23,6 +23,14 @@ There may also be a mobile app I create so that I can check everything on-the-go
 - [ ] Services Page
 - [ ] Gallery Page (?)
 
+#### Responsive version made using Bootstrap 5
+##### Improvements also made from the original version
+- [ ] Mobile Index/Home Page
+- [ ] Mobile Contact Page
+- [ ] Mobile Pricing Table Page
+- [ ] Mobile Services Page
+- [ ] Mobile Gallery Page (?)
+
 ## __React Version__
 ### Contents Checklist:
 - [ ] NavBar *(Make sure it's on every page!)*
