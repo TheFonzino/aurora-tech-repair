@@ -1,5 +1,5 @@
 main {
-    background-color: lavenderblush;
+    background-color: antiquewhite;
 }
 
 .hero-image {
@@ -24,6 +24,7 @@ main {
 
 div.textbox p {
     background-color: #09395c;
+    color: antiquewhite;
     padding: 1rem;
     border-radius: 1rem;
 }

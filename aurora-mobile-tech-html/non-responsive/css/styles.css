@@ -60,7 +60,7 @@ ul {
 
 header.flex-container {
     font-size: 2rem;
-    background-color: antiquewhite;
+    background-color: lightsteelblue;
     padding: 1rem;
 }
 
@@ -101,7 +101,7 @@ div.flex-container p {
 footer {
     background-image: url(../images/glacier-galaxy.jpg);
     background-size: cover;
-    background-position: left bottom 47%;
+    background-position: left bottom 50%;
 }
 
 footer.flex-container {
@@ -109,13 +109,14 @@ footer.flex-container {
 }
 
 footer p {
-    color: #0a395b;
+    color: black;
+    margin-bottom: 1rem;
 }
 
 footer a,
 footer a:visited,
 footer a:link {
-    color: crimson;
+    color: darkblue;
 }
 
 footer ul li {
