@@ -1,7 +1,7 @@
-# aurora-mobile-tech
+# aurora-tech-repair
 ## PC Repair & Mods
 
-This git is for my personal business website, Aurora Mobile Tech. I will be adding multiple versions to remind myself of everything I learned during my time at NAIT, mostly how to code websites properly.
+This git is for my personal business website, Aurora Tech Repair. I will be adding multiple versions to remind myself of everything I learned during my time at NAIT, mostly how to code websites properly.
 
 The versions I will be making depend on the complexity of the website:
 - HTML/CSS website to create a starting basis
