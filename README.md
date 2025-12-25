@@ -44,3 +44,6 @@ There may also be a mobile app I create so that I can check everything on-the-go
     - [ ] Reviews
     - [ ] Why Choose Me
 
+---
+
+My reasoning for making this website (and business) is simple. While I was working at Walmart in the Electronics section, I realized that they didn't want personal connections or to actually help people with deciding on a purchase before letting them buy it- they wanted them in and out the door as quick as possible; where people should already have their minds made up before they buy anything. That is not a good business structure for electronics in my mind, and won't thrive as much as they think it will. For me, taking time to understand the person's needs and wants is very important and helps the customer feel more relaxed while purchasing. That way you will have a good connection and a customer for life. If you treat them with the respect and the time they deserve, they will be coming to you instead. Most people don't care how fast or slow you are, it's about being kind to others that makes the deal happen. At Walmart, I told people to take as much time as they need to decide. I didn't care about being disliked by the co-workers or management, it was the proper thing to do.
